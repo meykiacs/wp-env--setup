@@ -1,0 +1,8 @@
+{
+  "core": null,
+    "mappings": {
+    "wp-content/plugins": "./"
+  },
+  "themes": ["./understand"],
+  "phpVersion": "8.1"
+}
